@@ -1,1 +1,1 @@
-https://github.com/VictoriaKudasheva/posmotri-v-okno-fd#
+https://github.com/VictoriaKudasheva/posmotri-v-okno-fd
