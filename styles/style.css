@@ -71,16 +71,14 @@ ol {
   align-items: end;
   gap: 30px;
   width: 1140px;
-  min-height: 534px;
 }
 
 .result {
   display: flex;
   flex-direction: column;
   grid-area: result;
-  gap: 16px;
+  gap: 13px;
   width: 711px;
-  min-height: 456px;
 }
 
 .result__video-container {
@@ -100,8 +98,6 @@ ol {
   display: flex;
   gap: 40px;
   width: 711px;
-  height: 56px;
-  padding-top: 2px;
 }
 
 .search-form__fieldset {
@@ -196,7 +192,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 
 .title {
   width: fit-content;
-  margin-bottom: 21px;
+  margin-bottom: 24px;
   font-family: Oswald, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
   font-weight: 700;
   font-size: 75px;
@@ -228,7 +224,6 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
   display: flex;
   align-items: flex-start;
   width: 390px;
-  min-height: 103px;
 }
 
 .content__video-card-title {
